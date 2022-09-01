@@ -4,4 +4,4 @@ NPM     : 2106639491
 
 Kelas   : A
 
-Hobi    : Ngoding
+Hobi    : Belajar
